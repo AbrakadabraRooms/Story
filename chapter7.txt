@@ -1,0 +1,11 @@
+Lo mismo que antes pero modifica 
+Git branch alien-Plot
+
+git branch  ==============> para ver en que rama estoy 
+
+alien-plot
+*main
+
+git checkout alien-plot
+
+despues modificar los archivos anteriores al branching por ejemplo del chapter1.txt al chapter3.txt
