@@ -9,3 +9,5 @@ alien-plot
 git checkout alien-plot
 
 despues modificar los archivos anteriores al branching por ejemplo del chapter1.txt al chapter3.txt
+
+ESTA ES LA EDICION DEL FORK PARA HACER EL PULL REQUEST Y QUE ME APRUEVE Y HACER EL MERGE
